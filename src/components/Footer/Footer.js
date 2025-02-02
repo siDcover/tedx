@@ -60,7 +60,7 @@ export default function Footer() {
             <div className="footer-col3" style={{ textAlign: "left" }}>
               <h4 className="footer-heading footer-link">Contact Us</h4>
               <a className="footer-email footer-link" href="#">
-                tedxpccoer@gmail.com              </a>
+                support@tedxpccoer.in              </a>
               <a className="footer-email footer-link" href="#">
                 +91 9860922884
               </a>
