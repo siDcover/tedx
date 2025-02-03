@@ -104,6 +104,86 @@ canvas {
   font-size: 7rem;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+  /* Adjust fonts for mobile */
+  .tedx-heading,
+  .theme-name {
+    font-size: 4rem; /* Reduce dramatically for mobile */
+  }
+
+
+.first,
+.second{
+	font-size: 4rem;
+	line-height: 90%;
+	letter-spacing: 4px;
+	}
+  .tedx-red,
+  .pccoer-white {
+    font-size: 1.8rem; /* Smaller text for readability */
+  }
+  
+  .tedx-black{
+  	font-size: 1.3rem;
+  	vertical-align: 3px;
+}
+
+  .tedx_desc {
+    margin-top: 0; /* Remove negative margin */
+    padding: 10px; /* Reduce padding */
+    font-size: 16px; /* More readable on mobile */
+  }
+
+  .tedx_logo {
+    width: 80%; /* Make it more flexible */
+    margin-bottom: 1rem; /* Reduce extra space */
+  }
+
+  .datedate {
+    margin-top: 20px; /* Reduce space */
+  }
+
+  .ticket_image {
+    width: 80%; /* Make ticket image fit better */
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* theme-page */
 
 
