@@ -104,4 +104,37 @@ span {
   color: red;
 }
 
+@media (max-width: 768px) {
+  
+
+  .main {
+    width: 100%; /* Make it fluid */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+  }
+  .theme img {
+    width: 90%; /* Make it flexible */
+    max-width: 500px; /* Prevent excessive scaling */
+  }
+  .theme h2 {
+    font-size: 24px; /* Reduce size */
+    margin-bottom: 10px;
+  }
+
+  .theme-text h5 {
+    font-size: 18px; /* Reduce heading size */
+  }
+
+  .theme-text p {
+    font-size: 16px; /* Adjust for better readability */
+    padding: 10px; /* Reduce padding */
+    line-height: 22px; /* Better spacing */
+    padding: 10px;
+  margin-bottom: 0px;
+  }
+
+
+}
 
