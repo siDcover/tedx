@@ -83,7 +83,7 @@ export const slides = [
       // link2: "https://www.instagram.com/narpathndmr/",
       // link3: "https://www.youtube.com/c/NarpathNextDoorMindReader",
 
-      image: img6
+      image: img8
     },
     { id:9, 
       title: "Lt. Cdr Bijay Nair",
