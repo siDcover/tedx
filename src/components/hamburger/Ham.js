@@ -64,11 +64,7 @@ const Menu = ({ open, clicked, setClicked }) => {
         </a>
       </Link>
 
-      <Link to="/sponsor">
-        <a href="/" onClick={() => setClicked(!clicked)}>
-          <HiOutlineUserGroup style={{ color: "red" }} /> Sponsors
-        </a>
-      </Link>
+
       <Link to="/">
         <a href="/" onClick={() => setClicked(!clicked)}>
           <PiCrosshair style={{ color: "red" }} /> Team

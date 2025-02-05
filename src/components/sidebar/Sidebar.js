@@ -13,12 +13,6 @@ function Sidebar() {
 		objects: [
 			{ id: 1, iconTag: HiOutlineHome, link: "/", text: "Home" },
 			{ id: 2, iconTag: FiMic, link: "/speaker", text: "Speakers" },
-			{
-				id: 3,
-				iconTag: HiOutlineUserGroup,
-				link: "/sponsor",
-				text: "Sponsors",
-			},
 			
 			{ id: 5, iconTag: PiCrosshair, link: "/", text: "Team" },
 			{ id: 6, iconTag: RiGalleryLine, link: "/gallery", text: "Gallery" },
