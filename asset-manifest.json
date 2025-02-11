@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b5839d1a.chunk.css",
-    "main.js": "/static/js/main.c256bf9b.chunk.js",
-    "main.js.map": "/static/js/main.c256bf9b.chunk.js.map",
+    "main.js": "/static/js/main.0fb533f8.chunk.js",
+    "main.js.map": "/static/js/main.0fb533f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.60a35c49.js",
     "runtime-main.js.map": "/static/js/runtime-main.60a35c49.js.map",
     "static/css/2.4ce9e501.chunk.css": "/static/css/2.4ce9e501.chunk.css",
@@ -47,6 +47,7 @@
     "static/media/3.4c419890.png": "/static/media/3.4c419890.png",
     "static/media/3.5325cd83.jpeg": "/static/media/3.5325cd83.jpeg",
     "static/media/3.a9281f3a.webp": "/static/media/3.a9281f3a.webp",
+    "static/media/3.e745422e.jpg": "/static/media/3.e745422e.jpg",
     "static/media/4.c3c79554.webp": "/static/media/4.c3c79554.webp",
     "static/media/4.eb2791e5.jpg": "/static/media/4.eb2791e5.jpg",
     "static/media/5.4c419890.png": "/static/media/5.4c419890.png",
@@ -84,12 +85,12 @@
     "static/media/Homepage.css": "/static/media/font1.e24e7890.ttf",
     "static/media/img1.7d377e03.jpg": "/static/media/img1.7d377e03.jpg",
     "static/media/img1.bf951ae1.jpg": "/static/media/img1.bf951ae1.jpg",
+    "static/media/img2.0fe1407a.jpg": "/static/media/img2.0fe1407a.jpg",
     "static/media/img2.195733a5.JPG": "/static/media/img2.195733a5.JPG",
-    "static/media/img2.702a4f5a.jpg": "/static/media/img2.702a4f5a.jpg",
     "static/media/img3.2037c940.jpg": "/static/media/img3.2037c940.jpg",
     "static/media/img3.8acf1d60.jpg": "/static/media/img3.8acf1d60.jpg",
-    "static/media/img4.882feb07.jpg": "/static/media/img4.882feb07.jpg",
     "static/media/img4.d8d07e5f.jpg": "/static/media/img4.d8d07e5f.jpg",
+    "static/media/img4.ea67f1f5.jpg": "/static/media/img4.ea67f1f5.jpg",
     "static/media/img5.95239f60.jpg": "/static/media/img5.95239f60.jpg",
     "static/media/img5.b7e63947.jpg": "/static/media/img5.b7e63947.jpg",
     "static/media/img6.a9312e25.jpg": "/static/media/img6.a9312e25.jpg",
@@ -107,6 +108,6 @@
     "static/css/2.4ce9e501.chunk.css",
     "static/js/2.3c3f49bf.chunk.js",
     "static/css/main.b5839d1a.chunk.css",
-    "static/js/main.c256bf9b.chunk.js"
+    "static/js/main.0fb533f8.chunk.js"
   ]
 }
