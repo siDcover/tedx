@@ -92,11 +92,11 @@ const Homepage = () => {
 			<Theme />
 
 			<div className="speak_heading">
-				<span>SPEAKERS</span> FOR CONFERENCE 2024
+				<span>SPEAKERS</span> FOR CONFERENCE 2025
 			</div>
 			<Newspeaker />
 			<div className="speak_heading">
-				<span>SPONSORS</span> FOR CONFERENCE 2024
+				<span>SPONSORS</span> FOR CONFERENCE 2025
 			</div> 
 			<CurrentSpons />
 			<div style={{ margin: "20px 60px" }}>

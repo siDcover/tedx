@@ -22,7 +22,7 @@ export default function Theme() {
                 {" "}
                 THEME{" "}
               </span>
-              <span className="white"> FOR CONFERENCE 2024 </span>
+              <span className="white"> FOR CONFERENCE 2025 </span>
             </h2>
           </div>
 
